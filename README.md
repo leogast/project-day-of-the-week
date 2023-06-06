@@ -1,5 +1,5 @@
 # Day of the Week
-Final Project - Introduction to Computer & Systems Sciences (Python)
+# Final Project - Introduction to Computer & Systems Sciences (Python)
 
 
 Räkna ut veckodagen
